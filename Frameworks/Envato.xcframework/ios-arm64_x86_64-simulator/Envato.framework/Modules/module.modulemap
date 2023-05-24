@@ -1,0 +1,11 @@
+framework module Envato {
+  umbrella header "Envato.h"
+
+  export *
+  module * { export * }
+}
+
+module Envato.Swift {
+    header "Envato-Swift.h"
+    requires objc
+}

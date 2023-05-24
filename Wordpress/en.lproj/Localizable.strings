@@ -1,0 +1,28 @@
+/* 
+  Localizable.strings
+  News
+
+  Created by Asil Arslan on 21.12.2020.
+  
+*/
+
+"Home" = "Home";
+"Headline" = "Headline";
+"Latest" = "Latest";
+"Category" = "Category";
+
+
+"Favorite" = "Favorite";
+
+
+"Tag" = "Tag";
+
+
+"Setting" = "Setting";
+"Info Description" = "News App is best Wordpress Rest App.";
+"Purchased" = "Purchased";
+
+"Developer" = "Developer";
+"Compability" = "Compability";
+"Website" = "Website";
+"Version" = "Version";
