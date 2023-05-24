@@ -26,8 +26,16 @@ SwiftUI iOS  App for blog posts, images, pages, categories and tags and show in 
 
 <div style="display: flex; justify-content: space-between;">
 
-<img src="assets/Screenshot_17.png" alt="Alt Text" />
+<img src="assets/Screenshot_13.png" alt="Alt Text" />
 <img src="assets/Screenshot_16.png" alt="Alt Text" />
 
+<img src="assets/Screenshot_17.png" alt="Alt Text" />
+<img src="assets/Screenshot_2.png" alt="Alt Text" />
 
+<img src="assets/Screenshot_3.png" alt="Alt Text" />
+<img src="assets/Screenshot_4.png" alt="Alt Text" />
+
+<img src="assets/Screenshot_6.png" alt="Alt Text" />
+<img src="assets/Screenshot_8.png" alt="Alt Text" />
+<img src="assets/Screenshot_7.png" alt="Alt Text" />
 </div>
