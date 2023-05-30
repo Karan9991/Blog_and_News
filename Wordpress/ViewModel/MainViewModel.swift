@@ -24,7 +24,7 @@ class MainViewModel: ObservableObject {
     @Published var isFailed = false
     @Published var isRefresh = false
     
-    
+    //
     func fetchHeadlineData() {
         isHeadlineLoading = true
         guard let url = URL(string: URL_HEADLINE_POSTS) else {

@@ -12,7 +12,7 @@ import Intents
 struct Provider: TimelineProvider {
     var networkManager = NetworkManager()
     static var new = Post.default
-    
+    //
     init() {
         networkManager.fetchData { posts in
             Provider.new = posts.first ?? Post.default
